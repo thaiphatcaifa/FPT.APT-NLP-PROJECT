@@ -1,0 +1,39 @@
+# Environment & Secrets (Bảo mật API Key)
+.env
+.env.local
+.env.*.local
+
+# Python & Virtual Environments
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Storage & Vector DB Persistent Cache
+Backend/storage/
+storage/
+*.chroma
+*.sqlite
+
+# Node & Frontend Dependencies & Builds
+node_modules/
+dist/
+build/
+.output/
+.vite/
+*.log
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Thu muc sao luu giao dien cu (chi giu tren may, khong day len git)
+Frontend/_backup-src-cu/

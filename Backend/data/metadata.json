@@ -1,0 +1,42 @@
+[
+  {
+    "file_name": "passage_01_thoi_han_bao_truoc.txt",
+    "title": "Thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động",
+    "metadata": {
+      "loai_hop_dong": "xac_dinh_thoi_han",
+      "chu_de": "cham_dut_hop_dong",
+      "phap_ly": "Luat_Lao_Dong_2019",
+      "doi_tuong": "nguoi_lao_dong"
+    }
+  },
+  {
+    "file_name": "passage_02_che_do_thai_san.txt",
+    "title": "Chế độ thai sản cho lao động nữ và lao động nam",
+    "metadata": {
+      "loai_hop_dong": "toan_bo",
+      "chu_de": "thai_san",
+      "phap_ly": "Luat_Bao_Hiem_Xa_Hoi_2014",
+      "doi_tuong": "toan_the"
+    }
+  },
+  {
+    "file_name": "passage_03_luong_lam_them_gio.txt",
+    "title": "Chế độ tiền lương làm thêm giờ và làm việc vào ban đêm",
+    "metadata": {
+      "loai_hop_dong": "toan_bo",
+      "chu_de": "tien_luong_thuong",
+      "phap_ly": "Nghi_dinh_145_2020",
+      "doi_tuong": "nguoi_lao_dong"
+    }
+  },
+  {
+    "file_name": "quy_dinh_ky_luat_lao_dong_dai.txt",
+    "title": "Nội quy và quy trình xử lý kỷ luật lao động chi tiết",
+    "metadata": {
+      "loai_hop_dong": "toan_bo",
+      "chu_de": "ky_luat_lao_dong",
+      "phap_ly": "Luat_Lao_Dong_2019",
+      "doi_tuong": "nguoi_su_dung_lao_dong"
+    }
+  }
+]
